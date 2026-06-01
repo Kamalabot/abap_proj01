@@ -1,0 +1,4 @@
+@EndUserText.label: 'Client Service Manifest'
+define service ZUI_CLIENTSE_SRV {
+  expose ZI_CLIENTS as Client;
+}
